@@ -11,7 +11,7 @@ go get -u github.com/play2pay/croco-az
 
 ### To Heroku
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vusaldi/kelme)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ismiyev/kelme)
 
 ## İşə salmaq
 1. .ENV Faylı redaktə et
